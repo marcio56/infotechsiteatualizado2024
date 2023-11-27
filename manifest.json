@@ -1,0 +1,23 @@
+{
+  "background_color": "#ffffff",
+  "description": "gerenciamento escolar",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "/infotechsistemas.netlify/",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "/infotechsistemas.netlify/",
+  "start_url": "https://infotechsistemas.netlify.app",
+  "theme_color": "#ffffff",
+  "categories": [
+    "education"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "app/images/logo/Favicon.svg",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": []
+}
